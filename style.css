@@ -1,0 +1,32 @@
+body{
+    background-image: url(1701766456_pictures-pibig-info-p-shablon-tetrad-v-kletku-instagram-1.jpg);
+    background-size: 100%;
+}
+
+#tic{
+    text-align: center;
+}
+
+#tic td{
+    width: 120px;
+    height: 120px;
+    border: 3px solid black;
+    font-size: 40px;
+    text-align: center;
+}
+
+button{
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 10px;
+    width: 100px;
+    background-color: rgb(129, 90, 166);
+    border: none;
+    text-decoration: underline;
+    color: white;
+}
+
+#but{
+    text-align: center;
+}
